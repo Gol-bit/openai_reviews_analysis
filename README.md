@@ -9,7 +9,7 @@ This repository contains a pipeline for automated analysis of customer reviews o
 - Aggregate and visualize frequency of each feedback category  
 - Generate a concise summary of top features and pain points with representative quotes  
 
-## Data Loading & Preprocessing
+## Data Preprocess ('openai_reviews_analysis_yelp.ipynb')
    - Read raw CSV of reviews (`House Cleaning Reviews.csv`)  
    - Prompt OpenAI’s GPT-4o-mini to return JSON arrays of positive/negative categories and subcategories for each review  
    - Parse JSON and store results in a pandas DataFrame  
