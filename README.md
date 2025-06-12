@@ -1,6 +1,6 @@
 # openai_reviews_analysis
 
-# Yelp House Cleaning Reviews Analysis with OpenAI
+# Yelp House Cleaning Reviews Analysis with OpenAI API
 
 ## Purpose
 This repository contains a pipeline for automated analysis of customer reviews of a house cleaning service. The goal is to:
